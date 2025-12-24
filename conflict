@@ -1,6 +1,6 @@
 <?php
 
-require 'includes/common.php';   // DB CONNECTION CONNTED AND SESSION STARTED
+require 'includes/php.php';   // DB CONNECTION CONNTED AND SESSION STARTED
 
 
 
